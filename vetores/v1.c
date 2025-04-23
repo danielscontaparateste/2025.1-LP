@@ -22,7 +22,7 @@ int main(){
         printf("%d ",vetor[k]);
     }
     
-    // ordenação - por seleção
+    // ordenação 
     int aux;
     for (int k=0; k<TAM-1; k++){
         for (int j=k+1; j<TAM; j++){
